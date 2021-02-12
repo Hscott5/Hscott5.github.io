@@ -4,10 +4,10 @@ layout: page
 ---
 
 ### Office
-University of Rochester
-Meliora Hall, Rm 142
-500 Wilson Blvd
-Rochester, NY 14627
+University of Rochester <br>
+Meliora Hall, Rm 142 <br>
+500 Wilson Blvd <br>
+Rochester, NY 14627 <br>
 
 
 ### Helpful Links
