@@ -10,7 +10,7 @@
 
 
 .resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-  display: block;
+  display: initial; // block
   }
 
 .resume blockquote, q {
