@@ -11,4 +11,4 @@ Rochester, NY 14627 <br>
 
 
 ### Helpful Links
-{Attention Dynamics Lab}(https://adams-lab.weebly.com/)
+[Attention Dynamics Lab](https://adams-lab.weebly.com/)
