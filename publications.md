@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: resume
+layout: publications
 ---
 
 ## Journal Articles
