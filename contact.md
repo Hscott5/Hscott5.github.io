@@ -1,7 +1,10 @@
 ---
-title: Contact
+title: Contact Information
 layout: page
 ---
+
+### Email
+hscott5@ur.rochester.edu
 
 ### Office
 University of Rochester <br>
