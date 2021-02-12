@@ -11,8 +11,8 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
+`2013 - 2018`
+__University of Kentucky__
 Degree Awarded
 
 `1995 - 1997`
