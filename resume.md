@@ -13,11 +13,11 @@ Current Position Description
 
 `2013 - 2018`
 __University of Kentucky__
-Degree Awarded
+B.S. Neuroscience
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2018 - present`
+__University of Rochester__
+Ph.D. Brain and Cognitive Sciences
 
 ## Awards
 
