@@ -1,6 +1,6 @@
 ---
 title: Contact Information
-layout: page
+layout: publications
 ---
 
 ### Email
