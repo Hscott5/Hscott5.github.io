@@ -10,7 +10,7 @@
 
 
 .resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
-  display: initial; // block
+  display: block;
   }
 
 .resume blockquote, q {
@@ -91,7 +91,7 @@ div#resume.resume{
   position: relative;
   top: 1.7em;
   text-align: right;
-  width: 30%;
+  width: 100%;
 }
 .resume h4 {
   font-size: 18px;
