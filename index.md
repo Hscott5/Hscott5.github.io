@@ -1,6 +1,6 @@
 ---
-layout: home
-excerpt: Neural mechanisms of attention and working memory.
+layout: publications
+excerpt: 
 ---
 
 Neural mechanisms of attention and working memory.
