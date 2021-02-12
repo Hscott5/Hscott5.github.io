@@ -2,7 +2,7 @@
 layout: publications
 excerpt: 
 ---
-
+## Research Focus
 I am interested in researching how the brain makes sense and interacts with the world around it. My work focuses heavily on the transformation of visual information through neural circuits, and combines techniques from electrophysiology and computational modelling. I work closely on problems relating to attention, working memory, and decision making.
 
 ## Current Work
