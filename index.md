@@ -3,16 +3,13 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+Neural mechanisms of attention and working memory.
 
-## About this Site
+## Current Work
 
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+Feature multiplexing in V4 reflects natural image statistics
+I use a combination of electrophysiology and statistical techniques from machine learning to investigate high-dimensional feature tuning in visual area V4. The central conceit of this project supposes that the brain uses a latent coding model to efficiently represent information from the visual world
+
 
 
 ## Creating Your Own
